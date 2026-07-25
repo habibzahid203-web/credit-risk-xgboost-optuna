@@ -38,7 +38,7 @@ Credit score was the single strongest predictor of default risk, accounting for 
 
 ```bash
 pip install numpy pandas scikit-learn xgboost optuna
-python day3_credit_risk_xgboost.py
+python main.py
 ```
 
 ---
